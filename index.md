@@ -37,10 +37,10 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Some publications of mine
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   [Análise de Obras Públicas](./another-page.html).
+*   [Link to another page](./another-page.html).
 *   This is an unordered list following a header.
 
 ##### Header 5
